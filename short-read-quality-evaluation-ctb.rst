@@ -31,9 +31,9 @@ Install `khmer <http://khmer.readthedocs.org/en/v1.1/>`__::
 Install `Trimmomatic <http://www.usadellab.org/cms/?page=trimmomatic>`__::
 
    cd /root
-   curl -O http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmomatic-0.32.zip
-   unzip Trimmomatic-0.32.zip 
-   cp Trimmomatic-0.32/trimmomatic-0.32.jar /usr/local/bin
+   curl -O http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmomatic-0.33.zip
+   unzip Trimmomatic-0.33.zip 
+   cp Trimmomatic-0.33/trimmomatic-0.33.jar /usr/local/bin
 
 Install `FastQC <http://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc>`__::
 
